@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, world! I'm Jay👨‍💻
+### Hello, world! I'm Jay 👨‍💻
 
 - 👀   Currently looking for remote Software Engineering opportunties.
 - 🏗   Built [Synapse](https://synapse-gateway.github.io), an open-source tool which builds, deploys, and monitors a serverless GraphQL Gateway for legacy APIs.
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🤝   I'd love to collaborate on projects using sports data (player stats or player tracking).
 - 🚧   Formerly a Structural Restoration and Building Envelope Engineer.
 
-Feel free to check out [my personal website](https://gudsson.ca)🔗, or shoot me an email at [gudsson@gmail.com](mailto://gudsson@gmail.com)📫 if you want to chat!
+Feel free to check out [my personal website](https://gudsson.ca)🔗, or reach out on [LinkedIn](https://www.linkedin.com/in/gudsson/)🤵 [gudsson@gmail.com](mailto://gudsson@gmail.com)📫 if you want to chat!
