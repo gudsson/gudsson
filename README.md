@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 👀   Currently looking for remote Software Engineering opportunties.
 - 🏗   Built [Synapse](https://synapse-gateway.github.io), an open-source tool which builds, deploys, and monitors a serverless GraphQL Gateway for legacy APIs.
-- 🗨️   Experience with JavaScript (NodeJS, Express, React), Golang, Python, and SQL.
+- 💬   Experience with JavaScript (NodeJS, Express, React), Golang, Python, and SQL.
 - 🤕   Lots of experience with VBA in a previous life.
 - 🚧   Formerly a Structural Restoration and Building Envelope Engineer.
 
-Feel free to check out [my personal website](https://gudsson.ca)🔗, or feel free to shoot me an email at [gudsson@gmail.com](mailto://gudsson@gmail.com)📧 if you want to chat!
+Feel free to check out [my personal website](https://gudsson.ca)🔗, or feel free to shoot me an email at [gudsson@gmail.com](mailto://gudsson@gmail.com)📫 if you want to chat!
