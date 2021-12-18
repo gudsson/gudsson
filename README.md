@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 🗨️   Experience with JavaScript (NodeJS, Express, React), Golang, Python, and SQL.
 - 🤕   Lots of experience with VBA in a previous life.
 - 🚧   Formerly a Structural Restoration and Building Envelope Engineer.
+
+Feel free to check out [my personal website](https://gudsson.ca)🔗, or feel free to shoot me an email at [gudsson@gmail.com](mailto://gudsson@gmail.com) if you want to chat!
