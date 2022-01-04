@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👀   Currently looking for remote Software Engineering opportunties.
 - 🏗   Built [Synapse](https://synapse-gateway.github.io), an open-source tool which builds, deploys, and monitors a serverless GraphQL Gateway for legacy APIs.
-- 💬   Experience with JavaScript (NodeJS, Express, React), Golang, Python, and SQL.
+- 🗣️   Experience with JavaScript (NodeJS, Express, React), Golang, Python, and SQL.
 - 🤕   Lots of experience with VBA in a previous life.
 - 🤝   I'd love to collaborate on projects using sports data (player stats or player tracking).
 - 🚧   Formerly a Structural Restoration and Building Envelope Engineer.
