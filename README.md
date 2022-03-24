@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🤝   I'd love to collaborate on projects using sports data (player stats or player tracking).
 - 🚧   Recovering Structural Restoration and Building Envelope Engineer.
 
-Feel free to check out [my personal website](https://gudsson.ca)🔗, or reach out on [LinkedIn](https://www.linkedin.com/in/gudsson/)🤵 or by email [gudsson@gmail.com](mailto://gudsson@gmail.com)📫 if you want to chat!
+Feel free to check out [my personal website](https://gudsson.ca)🔗, or reach out on [LinkedIn](https://www.linkedin.com/in/gudsson/)🤵 if you want to chat!
