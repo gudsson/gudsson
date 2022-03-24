@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, world! I'm Jay 👨‍💻
+### Hello, world! I'm Jay
 
-- 👀   Currently looking for remote Software Engineering opportunties.
+- 👨‍💻   Software Developer at [Nylas](https://github.com/nylas).
 - 🏗   Built [Synapse](https://synapse-gateway.github.io), an open-source tool which builds, deploys, and monitors a serverless GraphQL Gateway for legacy APIs.
 - 🗣️   Experience with JavaScript (NodeJS, Express, React | Redux), Go, Python, and SQL.
 - 🤕   Lots of experience with VBA in a previous life.
 - 🤝   I'd love to collaborate on projects using sports data (player stats or player tracking).
-- 🚧   Formerly a Structural Restoration and Building Envelope Engineer.
+- 🚧   Recovering Structural Restoration and Building Envelope Engineer.
 
 Feel free to check out [my personal website](https://gudsson.ca)🔗, or reach out on [LinkedIn](https://www.linkedin.com/in/gudsson/)🤵 or by email [gudsson@gmail.com](mailto://gudsson@gmail.com)📫 if you want to chat!
