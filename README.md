@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻   Software Developer at [Nylas](https://github.com/nylas).
 - 🏗   Built [Synapse](https://synapse-gateway.github.io), an open-source tool which builds, deploys, and monitors a serverless GraphQL Gateway for legacy APIs.
+- 🏒   I handpick (and [misspell](https://twitter.com/jaasiaat/status/1496471961895153674)) the names for [Gordle](https://www.gordle.herokuapp.com).
 - 🗣️   Experience with JavaScript (NodeJS, Express, React | Redux), Go, Python, and SQL.
 - 🤕   Lots of experience with VBA in a previous life.
 - 🤝   I'd love to collaborate on projects using sports data (player stats or player tracking).
