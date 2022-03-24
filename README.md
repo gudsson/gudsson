@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### Hello, world! I'm Jay
 
 - 👨‍💻   Software Developer at [Nylas](https://github.com/nylas).
-
 - 🏒   I handpick (and [misspell](https://twitter.com/jaasiaat/status/1496471961895153674)) the names for [Gordle](https://www.gordle.herokuapp.com).
 - 🗣️   Experience with JavaScript (NodeJS, Express, React | Redux, Svelte), Go, Python, and SQL.
 - 🤕   Lots of experience with VBA in a previous life.
