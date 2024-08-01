@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Hello, world! I'm Jay
 
 - 👨‍💻   Software Developer at [Nylas](https://github.com/nylas).
-- 🏒   I handpick (and [misspell](https://twitter.com/jaasiaat/status/1496471961895153674)) the names for [Gordle](https://www.gordle.herokuapp.com).
-- 🗣️   Experience with JavaScript (NodeJS, Express, React | Redux, Svelte), Go, Python, and SQL.
+- 🏒   Built [PuckPedia's PuckGM](https://puckgm.puckpedia.com) with the Puckdoku guy.
+- 🗣️   Experience with JavaScript (NodeJS, Express, React | Next, Svelte), Go, Python, and SQL.
 - 🤕   Lots of experience with VBA in a previous life.
 - 🚧   Recovering Structural Restoration and Building Envelope Engineer.
 
